@@ -1,0 +1,142 @@
+
+.bg-light{
+  padding-left: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.side-menu{
+  .nav-link{
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .nav-link:hover{
+    h6{
+      color: green !important;
+    }
+    border-left: 3px green solid;}
+}
+
+.personalInfo {
+  display: flex;
+  img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  .Info{
+    margin-left: 16px;
+    padding-bottom:32px;
+  }
+  span{
+    color:#6C757D;
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+
+
+}
+
+.header{
+  padding:32px;
+  .admin{
+    height: 32px}
+  h6{
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+  .searchReminder{
+    width: 70px;
+    
+  }
+}
+
+.eyePen{
+  .modal-body{
+    padding-top: 32px;
+  }
+}
+
+.modal-body {
+  padding-top: 0px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+ .btn{
+   width: 416px;
+   height: 51px;
+ }
+ img{
+  width: 141px;
+  height: 141px;
+    }
+  .infoEmir{
+    width: 75%;
+    margin-left: 32px;
+    p span{
+      color: gray;
+      line-height: 24px;
+    }
+    h5{
+      padding-bottom: 8px;
+    }
+    .verifiedStatus{
+      p{
+        font-size: 14px;
+        margin-bottom: 0px;
+      }
+      span{
+        color:green;
+      }
+    }
+  }
+
+}
+
+.deactive{
+  p{
+    color: red;
+  }
+}
+
+.form-control{
+  height: 51px;
+}
+
+.modal-footer{
+  padding-top:4px;
+  padding-right: 32px;
+  padding-bottom: 32px;
+}
+
+.modal-header{
+  padding: 32px;
+}
+
+.modal-body{
+
+  form{
+    border-bottom: 1px #D0D0D0 solid;
+    padding-bottom: 24px;
+    margin-bottom: 0px;
+    .date{
+      font-size: 14px;
+    }
+  }
+  label{
+    font-size: 14px;
+  }
+}
+.pagination span{
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
